@@ -1,0 +1,11 @@
+﻿  Instructions.cpp
+  MainMenu.cpp
+  MazeSelection.cpp
+  MazeSolver.cpp
+D:\AAAAAAAAAAAAAAAAAAAAA\BU work\Assignments\AI Game programming\MazeSolver Brenham\Source code\MazeSelection.cpp(64,20): warning C4018: '<': signed/unsigned mismatch
+D:\AAAAAAAAAAAAAAAAAAAAA\BU work\Assignments\AI Game programming\MazeSolver Brenham\Source code\MazeSolver.cpp(31,20): warning C4018: '<': signed/unsigned mismatch
+D:\AAAAAAAAAAAAAAAAAAAAA\BU work\Assignments\AI Game programming\MazeSolver Brenham\Source code\MazeSolver.cpp(71,21): warning C4018: '<': signed/unsigned mismatch
+D:\AAAAAAAAAAAAAAAAAAAAA\BU work\Assignments\AI Game programming\MazeSolver Brenham\Source code\MazeSolver.cpp(141,20): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+D:\AAAAAAAAAAAAAAAAAAAAA\BU work\Assignments\AI Game programming\MazeSolver Brenham\Source code\MazeSolver.cpp(167,20): warning C4018: '>=': signed/unsigned mismatch
+  MazeSolver.vcxproj -> D:\AAAAAAAAAAAAAAAAAAAAA\BU work\Assignments\AI Game programming\MazeSolver Brenham\Source code\Debug\MazeSolver.exe
