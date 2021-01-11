@@ -1,0 +1,15 @@
+﻿  Instructions.cpp
+  MainMenu.cpp
+  MazeSelection.cpp
+  MazeSolver.cpp
+D:\AAAAAAAAAAAAAAAAAAAAA\BU work\Assignments\AI Game programming\MazeSolver A star\Source code\MazeSelection.cpp(64,20): warning C4018: '<': signed/unsigned mismatch
+D:\AAAAAAAAAAAAAAAAAAAAA\BU work\Assignments\AI Game programming\MazeSolver A star\Source code\MazeSolver.cpp(42,20): warning C4018: '<': signed/unsigned mismatch
+D:\AAAAAAAAAAAAAAAAAAAAA\BU work\Assignments\AI Game programming\MazeSolver A star\Source code\MazeSolver.cpp(57,20): warning C4018: '<': signed/unsigned mismatch
+D:\AAAAAAAAAAAAAAAAAAAAA\BU work\Assignments\AI Game programming\MazeSolver A star\Source code\MazeSolver.cpp(69,27): warning C4018: '<': signed/unsigned mismatch
+D:\AAAAAAAAAAAAAAAAAAAAA\BU work\Assignments\AI Game programming\MazeSolver A star\Source code\MazeSolver.cpp(106,104): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\AAAAAAAAAAAAAAAAAAAAA\BU work\Assignments\AI Game programming\MazeSolver A star\Source code\MazeSolver.cpp(131,132): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\AAAAAAAAAAAAAAAAAAAAA\BU work\Assignments\AI Game programming\MazeSolver A star\Source code\MazeSolver.cpp(132,126): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\AAAAAAAAAAAAAAAAAAAAA\BU work\Assignments\AI Game programming\MazeSolver A star\Source code\MazeSolver.cpp(133,28): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Generating Code...
+D:\AAAAAAAAAAAAAAAAAAAAA\BU work\Assignments\AI Game programming\MazeSolver A star\Source code\MazeSolver.cpp(135,23): warning C4018: '<': signed/unsigned mismatch
+  MazeSolver.vcxproj -> D:\AAAAAAAAAAAAAAAAAAAAA\BU work\Assignments\AI Game programming\MazeSolver A star\Source code\Debug\MazeSolver.exe
