@@ -1,0 +1,23 @@
+﻿  MazeSolver.cpp
+D:\AAAAAAAAAAAAAAAAAAAAA\BU work\Assignments\AI Game programming\MazeSolver Genetic algorithm\Source code\MazeSolver.cpp(56,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\AAAAAAAAAAAAAAAAAAAAA\BU work\Assignments\AI Game programming\MazeSolver Genetic algorithm\Source code\MazeSolver.cpp(64,24): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\AAAAAAAAAAAAAAAAAAAAA\BU work\Assignments\AI Game programming\MazeSolver Genetic algorithm\Source code\MazeSolver.cpp(180,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\AAAAAAAAAAAAAAAAAAAAA\BU work\Assignments\AI Game programming\MazeSolver Genetic algorithm\Source code\MazeSolver.cpp(181,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\AAAAAAAAAAAAAAAAAAAAA\BU work\Assignments\AI Game programming\MazeSolver Genetic algorithm\Source code\MazeSolver.cpp(182,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\AAAAAAAAAAAAAAAAAAAAA\BU work\Assignments\AI Game programming\MazeSolver Genetic algorithm\Source code\MazeSolver.cpp(183,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\AAAAAAAAAAAAAAAAAAAAA\BU work\Assignments\AI Game programming\MazeSolver Genetic algorithm\Source code\MazeSolver.cpp(279,27): warning C4244: '=': conversion from 'unsigned int' to 'float', possible loss of data
+D:\AAAAAAAAAAAAAAAAAAAAA\BU work\Assignments\AI Game programming\MazeSolver Genetic algorithm\Source code\MazeSolver.cpp(280,22): warning C4018: '<': signed/unsigned mismatch
+D:\AAAAAAAAAAAAAAAAAAAAA\BU work\Assignments\AI Game programming\MazeSolver Genetic algorithm\Source code\MazeSolver.cpp(294,27): warning C4244: '=': conversion from 'unsigned int' to 'float', possible loss of data
+D:\AAAAAAAAAAAAAAAAAAAAA\BU work\Assignments\AI Game programming\MazeSolver Genetic algorithm\Source code\MazeSolver.cpp(295,22): warning C4018: '<': signed/unsigned mismatch
+D:\AAAAAAAAAAAAAAAAAAAAA\BU work\Assignments\AI Game programming\MazeSolver Genetic algorithm\Source code\MazeSolver.cpp(309,22): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\AAAAAAAAAAAAAAAAAAAAA\BU work\Assignments\AI Game programming\MazeSolver Genetic algorithm\Source code\MazeSolver.cpp(312,23): warning C4244: '=': conversion from 'unsigned int' to 'float', possible loss of data
+D:\AAAAAAAAAAAAAAAAAAAAA\BU work\Assignments\AI Game programming\MazeSolver Genetic algorithm\Source code\MazeSolver.cpp(313,21): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+D:\AAAAAAAAAAAAAAAAAAAAA\BU work\Assignments\AI Game programming\MazeSolver Genetic algorithm\Source code\MazeSolver.cpp(315,26): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+D:\AAAAAAAAAAAAAAAAAAAAA\BU work\Assignments\AI Game programming\MazeSolver Genetic algorithm\Source code\MazeSolver.cpp(319,26): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+D:\AAAAAAAAAAAAAAAAAAAAA\BU work\Assignments\AI Game programming\MazeSolver Genetic algorithm\Source code\MazeSolver.cpp(321,23): warning C4244: '=': conversion from 'unsigned int' to 'float', possible loss of data
+D:\AAAAAAAAAAAAAAAAAAAAA\BU work\Assignments\AI Game programming\MazeSolver Genetic algorithm\Source code\MazeSolver.cpp(322,21): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+D:\AAAAAAAAAAAAAAAAAAAAA\BU work\Assignments\AI Game programming\MazeSolver Genetic algorithm\Source code\MazeSolver.cpp(324,26): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+D:\AAAAAAAAAAAAAAAAAAAAA\BU work\Assignments\AI Game programming\MazeSolver Genetic algorithm\Source code\MazeSolver.cpp(328,26): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+D:\AAAAAAAAAAAAAAAAAAAAA\BU work\Assignments\AI Game programming\MazeSolver Genetic algorithm\Source code\MazeSolver.cpp(377,20): warning C4018: '<': signed/unsigned mismatch
+D:\AAAAAAAAAAAAAAAAAAAAA\BU work\Assignments\AI Game programming\MazeSolver Genetic algorithm\Source code\MazeSolver.cpp(402,17): warning C4018: '<': signed/unsigned mismatch
+  MazeSolver.vcxproj -> D:\AAAAAAAAAAAAAAAAAAAAA\BU work\Assignments\AI Game programming\MazeSolver Genetic algorithm\Source code\Debug\MazeSolver.exe
